@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "342476812587",
+    "project_id": "yourgeneralcare",
+    "storage_bucket": "yourgeneralcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342476812587:android:1505e1d6439a81038d556e",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342476812587-71bhonkg5295ourpvie8l8sonnj886i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL0vytWF01NxZZ6y_O-jN1-BmPpJAaJQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342476812587-71bhonkg5295ourpvie8l8sonnj886i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342476812587:android:b6927f24f1ef23428d556e",
+        "android_client_info": {
+          "package_name": "com.example.urgeneralcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342476812587-71bhonkg5295ourpvie8l8sonnj886i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL0vytWF01NxZZ6y_O-jN1-BmPpJAaJQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342476812587-71bhonkg5295ourpvie8l8sonnj886i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
